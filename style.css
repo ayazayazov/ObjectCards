@@ -1,0 +1,22 @@
+body{
+    background: linear-gradient(180deg,#3f4c6b, #606c88, #3f4c6b);
+}
+
+.card-body{
+    background-color: #bdc3c7;
+}
+
+p{
+    width: 310px;
+}
+
+h4{
+    width: 310px;
+}
+
+img{
+    width: 310px;
+    height: 180px;
+    /* object-fit: cover; */
+    overflow:hidden;
+}
